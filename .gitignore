@@ -1,24 +1,16 @@
-#prevent assorted .json's syncing
-accounts.json
-usercache.json
-realms_persistence.json
-
-#fabric data
+# Mod data
 .fabric
-
+logos
+ModTranslations
+cache
 #logs
 logs
+crash-reports
+realms_persistence.json
 
-#mod translations
-ModTranslations
-
-#Save Game Data
+# User data
+profilekeys
+waypoints
 saves
-
-#crash reports
-crash-reports/
-
-#waypoints
-waypoints/
-
-profilekeys/
+accounts.json
+usercache.json
